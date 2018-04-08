@@ -1,3 +1,13 @@
+# Vue Starter
+
+Vue Starter é um esqueleto básico de uma SPA (Single Page Application), para iniciar um projeto rapidamente com o mínimo necessário, desenvolvido com vue-cli.
+
+Neste kit foi integrado por padrão o framework bootstrap-vue para a UI (User Interface) e para o roteamento da aplicação o vue-router.
+
+# Demo
+
+Veja um demonstração online [aqui](https://vue-starter.surge.sh)
+
 # 
 
 > 
@@ -18,4 +28,4 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Para uma explicação detalhada sobre como as coisas funcionam, confira o [guia](http://vuejs-templates.github.io/webpack/) e a [documentação para o vue-loader](http://vuejs.github.io/vue-loader).
